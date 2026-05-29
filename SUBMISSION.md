@@ -7,6 +7,12 @@
 **Completion Time:** ~4 hours  
 **Status:** ✅ Ready for submission
 
+## 🔗 Important Links
+
+- **Live Demo:** https://sprint-day3.vercel.app/
+- **GitHub Repository:** https://github.com/Madko111/Sprint-Day3
+- **Demo Video:** https://drive.google.com/file/d/1soxG2kF25dNSbS70J_vmt-R5u_fCC-j_/view?usp=sharing
+
 ---
 
 ## 📦 Deliverables
